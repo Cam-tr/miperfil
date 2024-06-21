@@ -1,28 +1,24 @@
-# Hola, mi nombre es Camila
- 
- | Lenguaje | Habilidad
- | -------- | --------
- | HTML     | 1/10
- | CSS      | 1/10
- | JavaScript | 1/10
- | Bootstrap     | 1/10
+# Ana Camila Trejo Cárdenas
+ [Email](anacamatr@gmail.com) / [Instagram](__cammmt__) / [Whatsapp](5578642340) / [GitHub](https://github.com/Cam-tr) 
 
- ## Info
- Soy Camila, soy estudiante y voy a estudiar Ingeniería en Robótica y Sistemas digitales. Si quieren contactarme lo pueden hacer a través de mi correo electrónico: anacamatr@gmail.com
+## Perfil
+Estudiante pre-universitaria. Poseo habilidades como la organización, adaptación y autodidacta. 
 
- ## Intereses 
+## Grado académico 
+Preparatoria
 
- 1. Jugar volleyball 
- 2. Dibujar 
- 3. Leer 
- 4. Ver peliculas o series 
+## Experiencia profesional
+NA
 
- ## Top 5 comidas favoritas 
+## Certificaciones
+**Autodesk Certified User**: AutoCAD *(2021)*
 
- 1. Tacos al pastor
- 2. Mole de olla 
- 3. Birria 
- 4. Pizza 
- 5. Hamburguesas 
+## Lenguajes 
+**Español**: Nativo
 
-![playa](../../../Downloads/playa.png)
+**Inglés**: C1
+
+## Educación
+Prepa Anáhuac *(2021-2022)*
+
+Prepa Tec CEM *(2022-2024)*
